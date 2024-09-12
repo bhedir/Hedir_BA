@@ -3,7 +3,7 @@
 
 
 
-I am a cybersecurity student with a strong passion for protecting digital systems and a commitment to mastering the skills needed to defend against evolving cyber threats.
+I am a cybersecurity engineering student with a strong passion for protecting digital systems and a commitment to mastering the skills needed to defend against evolving cyber threats.
 
 ## Objective
 
